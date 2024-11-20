@@ -6,7 +6,7 @@ Project developed at Digital Innovation One's Bootcamp JavaScript Game Developer
 Learning to build a tic-tac-toe using only HTML to structure the site, CSS to style and bring it to life and JavaScript to create all your interactions, from choosing the player, making a move and giving the game a winner. 
 We saw how to create very simple projects without a lot of work, just using basic functions and a little logic!
 
-![tic-tac-toe](https://user-images.githubusercontent.com/95108889/161782393-cd3b36e0-5b63-4835-97c7-5674ea519511.png)
+[![tic-tac-toe](https://user-images.githubusercontent.com/95108889/161782393-cd3b36e0-5b63-4835-97c7-5674ea519511.png)](https://njtsb1.github.io/Creating_your_own_tic-tac-toe_with_HTML_and_Javascript/)
 
 This project is under the [MIT](./LICENSE) license.
 
